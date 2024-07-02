@@ -2,6 +2,8 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+![image](https://github.com/Eugenius1st/WeatherApp/assets/84161508/4502eba4-debc-4a11-b7ae-16f8d1efa633)
+
 ## Get started
 
 1. Install dependencies
